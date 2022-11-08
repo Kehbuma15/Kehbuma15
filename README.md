@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kehbuma15
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning C programming 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on challenging projects 
 - 📫 How to reach me ...
 
 <!---
