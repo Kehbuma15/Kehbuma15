@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Kehbuma15
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning C programming 
+- 👀 I’m a Software Engineer
+- I'm passionate about building web apps
+- I am into React js, node js, express 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
